@@ -6,4 +6,6 @@ before you start
 4. create the database and import the mysql.sql
 
 please note that there are front-end error logger for ajax and javascript errors included in the project it saves the ajax errors to `app/ajax-errors.log` and javascript errors to `app/js-error.log`
-you may need to take the users premissions or wish to disable it at all from app/view/head.php:17
+you may need to take the users premissions 
+
+or if wish to disable it at all from app/view/head.php:17
